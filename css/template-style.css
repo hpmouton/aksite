@@ -263,6 +263,15 @@ table tr th {
     padding: 10px;
 }
 
+.services_list {
+    font-weight: bold;
+}
+
+.services_list :hover {
+    color: #C81010;
+    cursor: pointer;
+}
+
 table tfoot,
 table thead {
     background: none repeat scroll 0 0 #f5f5f5;
